@@ -5,6 +5,6 @@ React.js/Node.js/PostgreSQL
 
 ---------------------------------------------------
 
-![Screenshot](NumberGuesser1.png)
+![Screenshot](/Screenshot (43).png)
 ![Screenshot](NumberGuesser2.png)
 ![Screenshot](NumberGuesser3.png)
