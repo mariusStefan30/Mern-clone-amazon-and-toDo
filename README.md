@@ -6,5 +6,11 @@ React.js/Node.js/PostgreSQL
 ---------------------------------------------------
 
 ![Screenshot](amazon-pern-clone-app.png)
-![Screenshot](NumberGuesser2.png)
-![Screenshot](NumberGuesser3.png)
+![Screenshot](amazon-pern-clone-app2.png)
+![Screenshot](amazon-pern-clone-app3.png)
+![Screenshot](amazon-pern-clone-app4.png)
+![Screenshot](amazon-pern-clone-app5.png)
+![Screenshot](amazon-pern-clone-app6.png)
+![Screenshot](amazon-pern-clone-app7.png)
+![Screenshot](amazon-pern-clone-app8.png)
+![Screenshot](amazon-pern-clone-app9.png)
