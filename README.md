@@ -5,7 +5,6 @@ React.js/Node.js/PostgreSQL
 
 ---------------------------------------------------
 
-![Screenshot](
-pern-clone-amazon-and-toDo/Screenshot%20%(43).png)
+![Screenshot](amazon-pern-clone-app.png)
 ![Screenshot](NumberGuesser2.png)
 ![Screenshot](NumberGuesser3.png)
